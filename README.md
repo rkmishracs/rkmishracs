@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rkmishracs
+- 👋 Hi, I’m Ram Krishn Mishra (aka: R. K. Mishra) 
 - 👀 I’m interested in Deep Learning and Machine Learning Project 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently researcher in the field of Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Sentiment Analysis 
 - 📫 How to reach me : visit www.mishrark.com 
 
